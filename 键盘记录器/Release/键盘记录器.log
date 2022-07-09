@@ -1,0 +1,14 @@
+﻿  键盘记录器.cpp
+D:\Program Data\source\repos\键盘记录器\键盘记录器\键盘记录器.cpp(26,32): warning C4244: “=”: 从“unsigned long”转换到“CHAR”，可能丢失数据
+D:\Program Data\source\repos\键盘记录器\键盘记录器\键盘记录器.cpp(32,33): warning C4244: “=”: 从“DWORD”转换到“CHAR”，可能丢失数据
+D:\Program Data\source\repos\键盘记录器\键盘记录器\键盘记录器.cpp(37,23): warning C4244: “=”: 从“DWORD”转换到“CHAR”，可能丢失数据
+D:\Program Data\source\repos\键盘记录器\键盘记录器\键盘记录器.cpp(46,26): warning C4244: “=”: 从“DWORD”转换到“CHAR”，可能丢失数据
+D:\Program Data\source\repos\键盘记录器\键盘记录器\键盘记录器.cpp(52,26): warning C4244: “=”: 从“DWORD”转换到“CHAR”，可能丢失数据
+D:\Program Data\source\repos\键盘记录器\键盘记录器\键盘记录器.cpp(220,52): warning C4267: “初始化”: 从“size_t”转换到“UCHAR”，可能丢失数据
+D:\Program Data\source\repos\键盘记录器\键盘记录器\键盘记录器.cpp(253,29): warning C4244: “=”: 从“ULONGLONG”转换到“UINT”，可能丢失数据
+  正在生成代码
+  2 of 175 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  键盘记录器.vcxproj -> D:\Program Data\source\repos\键盘记录器\Release\键盘记录器.exe
